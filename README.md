@@ -6,6 +6,11 @@ A 2D driving game built with Unity where players navigate through the city to pi
 
 In Delivery Driver, you take on the role of a delivery driver tasked with collecting packages and delivering them to customers. Navigate through the streets, avoid obstacles, and make efficient deliveries while managing your speed and vehicle control.
 
+## Screenshots
+
+![resim](https://github.com/user-attachments/assets/58a792a8-e193-4809-990c-6db72941c157)
+
+
 ## Features
 
 - 🎮 Smooth top-down driving mechanics
